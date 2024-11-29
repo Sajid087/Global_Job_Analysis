@@ -35,7 +35,12 @@ The primary goal of this project is to:
 4. Run the notebooks to explore the analysis.
 
 ## Dataset
-The dataset contains information about job listings from various countries. **[Specify the source, e.g., Kaggle or your custom dataset, and include a link if publicly available.]**
+The dataset used in this project, **Data Jobs**, was sourced from Hugging Face. It provides comprehensive information about job listings worldwide, including details on job roles, skills, locations, and salaries.
+
+- **Source**: [Hugging Face - Data Jobs](https://huggingface.co/datasets/lukebarousse/data_jobs)
+- **Access**: The dataset is publicly available and can be downloaded directly from the Hugging Face platform.
+
+If the dataset size exceeds GitHub's file limits, you can download it using the link above and place it in the project directory before running the analysis.
 
 ## Future Scope
 - Adding machine learning models for predictive analysis.
